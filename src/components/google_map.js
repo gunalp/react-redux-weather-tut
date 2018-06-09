@@ -14,7 +14,7 @@ componentDidMount(){
 
   render(){
     //this.ref.map
-    return <div ref="map" />
+    return <div ref="map" />;
   }
 }
 
