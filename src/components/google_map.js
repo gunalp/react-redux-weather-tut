@@ -7,7 +7,7 @@ componentDidMount(){
     zoom:12,
     center:{
       lat:this.props.lat,
-      lon:this.props.lon
+      lng:this.props.lon
     }
   });
 }
